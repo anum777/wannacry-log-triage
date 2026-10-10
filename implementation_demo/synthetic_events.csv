@@ -1,0 +1,8 @@
+timestamp,source_host,event_type,destination,event_count
+2026-10-09T10:00:00Z,HOST-01,smb_connection,FILE-SRV-01,3
+2026-10-09T10:00:05Z,HOST-01,smb_connection,HOST-02,8
+2026-10-09T10:00:10Z,HOST-01,smb_connection,HOST-03,12
+2026-10-09T10:00:15Z,HOST-01,file_change,LOCAL,35
+2026-10-09T10:01:00Z,HOST-02,smb_connection,FILE-SRV-01,2
+2026-10-09T10:01:05Z,HOST-03,file_change,LOCAL,4
+2026-10-09T10:01:10Z,HOST-04,smb_connection,FILE-SRV-01,1
